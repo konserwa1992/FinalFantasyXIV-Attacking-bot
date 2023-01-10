@@ -1,0 +1,31 @@
+﻿  dllmain.cpp
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(29,58): warning C4311: "typ rzutowania": obcięcie wskaźnika z "HMODULE" do "DWORD"
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(29,58): warning C4302: "typ rzutowania": obcięcie z "HMODULE" do "DWORD"
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(33,58): warning C4312: "typ rzutowania": konwersja z "DWORD" na "void *" jest większej wielkości
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(42,56): warning C4312: "typ rzutowania": konwersja z "DWORD" na "void *" jest większej wielkości
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(46,42): warning C4312: "typ rzutowania": konwersja z "DWORD" na "void *" jest większej wielkości
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(50,58): warning C4312: "typ rzutowania": konwersja z "DWORD" na "void *" jest większej wielkości
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(53,39): warning C4312: "typ rzutowania": konwersja z "DWORD" na "void *" jest większej wielkości
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(57,54): warning C4312: "typ rzutowania": konwersja z "DWORD" na "void *" jest większej wielkości
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(67,2): error C4235: użyto niestandardowego rozszerzenia: słowo kluczowe „__asm” nie jest obsługiwane w tej architekturze
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(68,3): error C2065: "push": niezadeklarowany identyfikator
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(68,8): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „FirstNPCAdress”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(69,3): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „MOV”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(69,3): error C2065: "MOV": niezadeklarowany identyfikator
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(69,7): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „ECX”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(69,7): error C2065: "ECX": niezadeklarowany identyfikator
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(70,3): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „call”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(70,3): error C2065: "call": niezadeklarowany identyfikator
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(70,8): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „SelectAdress”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(71,2): error C2143: błąd składniowy: brakuje „;” przed „}”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(73,2): error C4235: użyto niestandardowego rozszerzenia: słowo kluczowe „__asm” nie jest obsługiwane w tej architekturze
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(74,3): error C2065: "push": niezadeklarowany identyfikator
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(74,8): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „FirstNPCAdress”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(75,3): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „MOV”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(75,3): error C2065: "MOV": niezadeklarowany identyfikator
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(75,7): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „ECX”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(75,7): error C2065: "ECX": niezadeklarowany identyfikator
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(76,3): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „call”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(76,3): error C2065: "call": niezadeklarowany identyfikator
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(76,8): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „FinalAttackAddress”
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(77,2): error C2143: błąd składniowy: brakuje „;” przed „}”

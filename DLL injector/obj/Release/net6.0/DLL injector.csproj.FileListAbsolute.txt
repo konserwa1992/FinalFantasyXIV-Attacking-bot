@@ -1,0 +1,15 @@
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\bin\Release\net6.0\DLL injector.exe
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\bin\Release\net6.0\DLL injector.deps.json
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\bin\Release\net6.0\DLL injector.runtimeconfig.json
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\bin\Release\net6.0\DLL injector.dll
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\bin\Release\net6.0\DLL injector.pdb
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\DLL injector.csproj.AssemblyReference.cache
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\DLL injector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\DLL injector.AssemblyInfoInputs.cache
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\DLL injector.AssemblyInfo.cs
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\DLL injector.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\DLL injector.dll
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\refint\DLL injector.dll
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\DLL injector.pdb
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\DLL injector.genruntimeconfig.cache
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\DLL injector\obj\Release\net6.0\ref\DLL injector.dll

@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(128,79): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Final Fantasy XIV\dllmain.cpp(128,79): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+  Final Fantasy XIV.vcxproj -> C:\Users\Grzegorz\source\repos\Final Fantasy XIV\Debug\Final Fantasy XIV.dll
